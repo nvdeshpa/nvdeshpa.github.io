@@ -17,6 +17,8 @@ News and Updates
 ### 2025
 - [June 2025- Sept 2025] Summer internship in Modem systems team in Qualcomm focusing on channel estimation for 5G Modem
 - [June 2025]  Conference talk for the paper titled "Frequency-Selective Beamforming with Dynamic Metasurface Antennas,"  at ICC 2025 in Montreal, Canada.
+- [Oct 2025]  Conference talk for the paper titled "Frequency‑reconfigurable adhoc networks with dynamic metasurface antennas,"  at MILCOM 2025 in Los Angeles, United States.
+  
 ### 2024
 - [Jan 2024] Transferred my PhD from NC State to UCSD and continuing research with Prof. Robert W. Heath Jr.
 - [June 2024- Sept 2024] Summer internship in Modem systems team in Qualcomm focusing on channel estimation for 5G Modem
